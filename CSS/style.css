@@ -127,10 +127,10 @@ h3{
     margin-bottom: 156px;
 
 }
-.krest{
+.krest {
     display: flex;
     justify-content: space-evenly;
-    align-items: center;
+    align-items: flex-end;
 }
 
 .coll__img-kr{
